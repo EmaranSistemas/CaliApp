@@ -5,3 +5,21 @@ Es una herramienta para la gestión y manejo de calidad para ayudar a la empresa
 | Formatos  | N |
 |-----------|---|
 |  maestros | +39|
+
+### Características
+| Requisitos| Definido|
+|-----------|---------|
+| Firma| digital[] mano[]|
+| Metodo de legitimidad| |
+| Integración multiedia|si|
+| Reclamo firma| Digital |
+|Agregar Lista de proveedores| NO|
+
+
+### Urgente
+|Formulario|Prioridad|
+|----------|---------|
+|Recepciín de materia prima| Urgente| 
+|POES:agua, reciduos|Urgente|
+|Reclamos recepcion )|Urgente|
+|Reclamo respuesta  |Urgente|
