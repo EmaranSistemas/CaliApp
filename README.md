@@ -16,7 +16,7 @@ Es una herramienta para la gestión y manejo de calidad para ayudar a la empresa
 |Agregar Lista de proveedores| NO|
 
 
-### Urgente
+### Primera vesión urgente
 |Formulario|Prioridad|
 |----------|---------|
 |Recepciín de materia prima| Urgente| 
